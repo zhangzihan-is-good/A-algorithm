@@ -1,1 +1,1 @@
-A* 算法解决15数码问题。这是我硕士期间一门课程的实验，report是我的实验报告。
+The A* algorithm was employed to solve the 15-puzzle problem as part of an experimental project for a graduate-level course. The accompanying report serves as my experimental documentation. If you find it helpful, I would appreciate your support by giving it a star.
